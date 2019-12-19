@@ -816,3 +816,5 @@ declared static as seen above and hence you can call them directly using the
 class name Calculator without the need to create an object variable at all:
 */
 Calculator.add(5,10);
+
+//Insignificant note.
